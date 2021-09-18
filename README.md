@@ -1,6 +1,17 @@
 # container_stack
 
-A new Flutter project.
+A new video was released on YouTube that explains how **Stack** works and how we can customize **Container** to fits our need.
+You can wathc the first episode from this link : 
+https://youtu.be/QXtWRXjOZTI
+
+And the secong episode from here :
+https://youtu.be/4ukehzeAPfw
+
+
+
+![stack](https://user-images.githubusercontent.com/36349126/133887158-5d2334dc-2ec5-405f-b2a0-0960d6b7e095.png)
+
+
 
 ## Getting Started
 
