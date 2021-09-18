@@ -1,7 +1,7 @@
 # container_stack
 
 A new video was released on YouTube that explains how **Stack** works and how we can customize **Container** to fits our need.
-You can wathc the first episode from this link : 
+You can watch the first episode from this link : 
 https://youtu.be/QXtWRXjOZTI
 
 And the secong episode from here :
